@@ -1,2 +1,2 @@
-# C-
-Simple C++ console games 
+# C
+Simple C++ games
