@@ -1,1 +1,3 @@
 This is a recreation of the classic snake game, using the ncurses library to draw graphics.
+
+To compile use: g++ main.cpp game.cpp startmenu.cpp -lncurses
