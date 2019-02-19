@@ -1,2 +1,4 @@
-# C-
-Simple C++ console games on mac osx
+Simple C++ console games on mac osx 
+
+Current Projects:
+  C++ Snake Game 
